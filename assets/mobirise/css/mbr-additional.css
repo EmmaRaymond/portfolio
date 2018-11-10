@@ -1710,6 +1710,24 @@ body {
 .cid-r91llnjv05 .mbr-text B {
   color: #232323;
 }
+.cid-r91nw9nWJp {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-r91nw9nWJp .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-r91nw9nWJp .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-r91nw9nWJp .mbr-text {
+  color: #767676;
+}
 .cid-r91moUVejq {
   padding-top: 30px;
   padding-bottom: 30px;
