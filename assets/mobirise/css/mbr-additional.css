@@ -2659,6 +2659,23 @@ body {
   color: #232323;
   text-align: center;
 }
+.cid-r9bnd15rOs {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f4f6;
+}
+.cid-r9bnd15rOs .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-r9bnd15rOs .mbr-author-name {
+  font-weight: bold;
+  color: #232;
+}
+.cid-r9bnd15rOs .mbr-author-desc {
+  color: #232;
+}
 .cid-r8BGhJMsD5 .navbar {
   background: #ffffff;
   transition: none;
@@ -3064,4 +3081,22 @@ body {
 .cid-r91moUVejq .media-container-row .mbr-text {
   color: #232323;
   text-align: center;
+}
+.cid-r9bEGKgQH9 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-r9bEGKgQH9 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-r9bEGKgQH9 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-r9bEGKgQH9 .mbr-text {
+  color: #767676;
 }
