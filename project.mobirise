@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "site test",
+    "name": "portfolio",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -50,7 +50,9 @@
     ],
     "uniqCompNum": 33,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
