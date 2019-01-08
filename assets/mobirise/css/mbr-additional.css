@@ -1728,6 +1728,27 @@ body {
 .cid-r91nw9nWJp .mbr-text {
   color: #232323;
 }
+.cid-rey1ol8nR9 {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rey1ol8nR9 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rey1ol8nR9 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rey1ol8nR9 .mbr-text {
+  color: #767676;
+}
+.cid-rey1ol8nR9 .mbr-text B {
+  color: #232323;
+}
 .cid-r91moUVejq {
   padding-top: 30px;
   padding-bottom: 30px;
